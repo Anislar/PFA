@@ -1,0 +1,15 @@
+https://sites.google.com/site/daviddo0323/projects/uavdt
+
+
+https://sites.google.com/site/daviddo0323/projects/uavdt
+
+http://www.cs.cmu.edu/~saada/Projects/CrowdSegmentation/#Downloads
+https://pavis.iit.it/projects/crowd-behavior-analysis
+https://www.di.ens.fr/~laptev/projects/2011_iccv_rodriguez_datadriven.pdf
+
+http://www.mikelrodriguez.com/datasets-and-source-code
+
+https://arxiv.org/pdf/1502.01812.pdf : resume tous
+https://github.com/jakevdp/marathon-data
+https://github.com/ashwanidv100/Recommendation-System---Book-Crossing-Dataset
+https://github.com/tiantian123/Abnormal_detection
